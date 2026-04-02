@@ -39,8 +39,8 @@ mvn spring-boot:run
 
 ## Endpoints
 
-- `POST /orders` - Criar novo pedido (orquestra todo o fluxo)
-- `GET /orders/{id}` - Consultar pedido por ID
+- `POST /order` - Criar novo pedido (orquestra todo o fluxo)
+- `GET /order/{id}` - Consultar pedido por ID
 
 ## Banco de Dados
 - Database: `order_db`
